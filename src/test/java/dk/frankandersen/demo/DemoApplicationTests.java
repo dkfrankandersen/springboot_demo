@@ -1,10 +1,10 @@
-package dk.frankandersen.demo.api;
+package dk.frankandersen.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApiApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
